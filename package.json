@@ -1,0 +1,23 @@
+{
+  "name": "@paypalcorp/slack-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maalolankannan1/slack-bot-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maalolankannan1/slack-bot-tutorial/issues"
+  },
+  "homepage": "https://github.com/maalolankannan1/slack-bot-tutorial#readme",
+  "dependencies": {
+    "@slack/events-api": "^3.0.1",
+    "@slack/web-api": "^6.7.0"
+  }
+}
